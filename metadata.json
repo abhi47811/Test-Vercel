@@ -1,0 +1,5 @@
+{
+  "name": "Houspire Shell Render Generator",
+  "description": "A web application that converts 2D floorplan images into photorealistic 3D bare shell room renders (empty rooms without furniture) using AI.",
+  "requestFramePermissions": []
+}
